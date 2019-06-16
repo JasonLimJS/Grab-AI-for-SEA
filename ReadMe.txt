@@ -7,7 +7,7 @@ Model 2: kNN model with 1-day lagged demand as an extra engineered feature
 (Link: https://drive.google.com/open?id=1Qwiy4uyXps0Z-PC49ouZgUdXmBoFlAvH)
 
 Step 2: 
-Upload the downloaded scikit-learn models to your Google drive (drive/My Drive/)
+Upload the downloaded scikit-learn models to the 'My Drive' directory of your Google drive (drive/My Drive/)
 
 Step 3:
 Upload your test data set onto the 'My Drive' directory of your Google drive as testing.csv (drive/My Drive/testing.csv)
@@ -41,7 +41,7 @@ None
 8   qp0d0b   35      8:45  0.000623
 9   qp02zj   17     13:30  0.069005
 
-Please include demand in your test data as well, instead of having just the features, because they are needed for the algorithm and model to run. 
+Please include demand column (response variable) in your test data as well, instead of having just the predictors, because they are needed for the algorithm and model to run. 
 
 Step 4:
 Go to https://github.com/JasonLimJS/Grab-AI-for-SEA/blob/master/Final%20Algorithm%20to%20Test%20with%20Test%20Data%20Set.ipynb
