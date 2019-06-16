@@ -52,4 +52,6 @@ RMSE and predicted values (pandas DataFrame format) would be produced at the end
 Step 5:
 For further enquiry, please do not hesitate to contact me at jason94lim@gmail.com or +60179898240.
 
+Appendix:
+All the thought processes and detailed steps involved in building this model could be found in Jupyter notebook entitled Model_Development_Doc.ipynb (https://github.com/JasonLimJS/Grab-AI-for-SEA/blob/master/Model_Development_Doc.ipynb)
 
